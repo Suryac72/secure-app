@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@emotion/styled": "^11.14.1",
+    "@mui/styled-engine": "^7.3.6"
+  }
+}
